@@ -797,5 +797,11 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-right: 23px;
 }
 }
+@media screen and (max-width: 451px){
+  .footer_heading{
+    position: relative;
+    top: -60px;
+  }
+}
 
 
